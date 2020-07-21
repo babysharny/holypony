@@ -4,9 +4,9 @@ div
     .hero-body
       .container
         h1.title
-          | Тестовое задание
+          | {{ doc.title }}
         h2.subtitle
-          | Каталог
+          | {{ doc.description }}
   section.my-6
     .container
       .content

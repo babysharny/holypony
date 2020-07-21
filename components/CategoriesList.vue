@@ -5,7 +5,7 @@
       v-for='c in categories'
       :key='c.category_id'
       :to="'/catalog/' + c.url"
-      :class="{ 'is-active': activeId == c.category_id }"
+      :class="{ 'is-active': activeId === c.category_id }"
       @click.native='closeMenu'
       @mouseover.native='select(c)'
       )
@@ -15,7 +15,9 @@
 <script>
 export default {
   name: 'CategoriesList',
-  props: ['parent'],
+  props: {
+    parent: Object
+  },
   data() {
     return {
       activeId: null

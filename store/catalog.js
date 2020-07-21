@@ -1,6 +1,6 @@
-const URL = 'http://127.0.0.1:8080/data.json'
+// const URL = 'http://127.0.0.1:8080/data.json'
 // const URL = 'http://127.0.0.1:8080/data2.json'
-// const URL = 'http://api.holypony.ru/catalog/categories?limit=0'
+const URL = 'http://api.holypony.ru/catalog/categories?limit=0'
 
 export const state = () => {
   return {
@@ -18,8 +18,12 @@ export const getters = {
     return list
   },
 
-  getGroups: state => {
-    let activeCategory = state.activeCategory
+  getGroups: (state, getters) => {
+    return getters.getParentsOfCategory(state.activeCategory)
+  },
+
+  getParentsOfCategory: state => category => {
+    let activeCategory = category
     const categories = state.list
 
     const groups = [];
@@ -27,8 +31,13 @@ export const getters = {
       groups.unshift(activeCategory);
       activeCategory = categories.find(c => c.category_id === activeCategory.parent_id);
     }
+    // TODO Remove this
     groups.unshift(null);
     return groups
+  },
+
+  getBySlug: state => slug => {
+    return state.list.find(c => c.url === slug)
   }
 }
 

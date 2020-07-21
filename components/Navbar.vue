@@ -7,7 +7,7 @@
       .navbar-end
         .navbar-item.is-hoverable
           a.navbar-link(@click="switchCatalogMenu")
-            | Catalog
+            | Каталог
 </template>
 <script>
 export default {
