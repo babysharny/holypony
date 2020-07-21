@@ -25,6 +25,13 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  router: {
+    extendRoutes (routes, resolve) {
+      // Magic
+      const index = routes.findIndex(route => route.name === 'catalog-slug')
+      routes[index].path += '(.*)';
+    }
+  },
   /*
   ** Global CSS
   */
