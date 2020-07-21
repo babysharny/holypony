@@ -1,0 +1,2380 @@
+{
+  "items": [
+    {
+      "category_id": 12,
+      "parent_id": null,
+      "name": "Кабель и провод",
+      "url": "kabel-i-provod"
+    },
+    {
+      "category_id": 11,
+      "parent_id": null,
+      "name": "Электромонтажные изделия",
+      "url": "elektromontazhnye-izdeliya"
+    },
+    {
+      "category_id": 103,
+      "parent_id": 12,
+      "name": "Кабель гибкий",
+      "url": "kabel-i-provod/kabel-gibkiy"
+    },
+    {
+      "category_id": 9,
+      "parent_id": null,
+      "name": "Электроустановочные изделия",
+      "url": "elektroustanovochnye-izdeliya"
+    },
+    {
+      "category_id": 8,
+      "parent_id": null,
+      "name": "Низковольтное оборудование",
+      "url": "nizkovol-tnoe-oborudovanie"
+    },
+    {
+      "category_id": 7,
+      "parent_id": null,
+      "name": "Высоковольтное оборудование",
+      "url": "vysokovol-tnoe-oborudovanie"
+    },
+    {
+      "category_id": 23,
+      "parent_id": 12,
+      "name": "Кабель связи, радиочастотный",
+      "url": "kabel-i-provod/kabel-svyazi-radiochastotnyy"
+    },
+    {
+      "category_id": 5,
+      "parent_id": null,
+      "name": "Трансформаторы, подстанции, щитовое оборудование",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie"
+    },
+    {
+      "category_id": 6,
+      "parent_id": null,
+      "name": "Электродвигатели и приводная техника",
+      "url": "elektrodvigateli-i-privodnaya-tehnika"
+    },
+    {
+      "category_id": 22,
+      "parent_id": 12,
+      "name": "Кабель оптический",
+      "url": "kabel-i-provod/kabel-opticheskiy"
+    },
+    {
+      "category_id": 3,
+      "parent_id": null,
+      "name": "Щиты, шкафы, боксы",
+      "url": "schity-shkafy-boksy"
+    },
+    {
+      "category_id": 19,
+      "parent_id": 12,
+      "name": "Кабель специальный",
+      "url": "kabel-i-provod/kabel-special-nyy"
+    },
+    {
+      "category_id": 4,
+      "parent_id": null,
+      "name": "Инструмент и электрозащита",
+      "url": "instrument-i-elektrozaschita"
+    },
+    {
+      "category_id": 1,
+      "parent_id": null,
+      "name": "Источники питания и преобразователи",
+      "url": "istochniki-pitaniya-i-preobrazovateli"
+    },
+    {
+      "category_id": 29,
+      "parent_id": 12,
+      "name": "Провод СИП",
+      "url": "kabel-i-provod/provod-sip"
+    },
+    {
+      "category_id": 2,
+      "parent_id": null,
+      "name": "Светильники",
+      "url": "svetil-niki"
+    },
+    {
+      "category_id": 10,
+      "parent_id": null,
+      "name": "Лампы",
+      "url": "lampy"
+    },
+    {
+      "category_id": 554,
+      "parent_id": null,
+      "name": "Опоры и фундаменты",
+      "url": "opory"
+    },
+    {
+      "category_id": 49,
+      "parent_id": 11,
+      "name": "Арматура для СИП",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip"
+    },
+    {
+      "category_id": 51,
+      "parent_id": 11,
+      "name": "Кабельная арматура",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura"
+    },
+    {
+      "category_id": 53,
+      "parent_id": 11,
+      "name": "Материалы для монтажа",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha"
+    },
+    {
+      "category_id": 55,
+      "parent_id": 11,
+      "name": "Разъемы и штекеры",
+      "url": "elektromontazhnye-izdeliya/raz-emy-i-shtekery"
+    },
+    {
+      "category_id": 57,
+      "parent_id": 11,
+      "name": "Системы проводки кабеля (Пластик, ПВХ)",
+      "url": "elektromontazhnye-izdeliya/sistemy-provodki-kabelya-plastik-pvh"
+    },
+    {
+      "category_id": 59,
+      "parent_id": 11,
+      "name": "Металлические кабеленесущие системы",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy"
+    },
+    {
+      "category_id": 61,
+      "parent_id": 9,
+      "name": "Розетки",
+      "url": "elektroustanovochnye-izdeliya/rozetki"
+    },
+    {
+      "category_id": 63,
+      "parent_id": 9,
+      "name": "Удлинители, сетевые фильтры, разветвители",
+      "url": "elektroustanovochnye-izdeliya/udleniteli-setevye-fil-try-razvetviteli"
+    },
+    {
+      "category_id": 65,
+      "parent_id": 9,
+      "name": "Выключатели",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli"
+    },
+    {
+      "category_id": 67,
+      "parent_id": 9,
+      "name": "Комбинированные блоки",
+      "url": "elektroustanovochnye-izdeliya/kombinirovannye-bloki"
+    },
+    {
+      "category_id": 69,
+      "parent_id": 9,
+      "name": "Устройства контроля",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya"
+    },
+    {
+      "category_id": 71,
+      "parent_id": 9,
+      "name": "Домофонные системы, звонки, зуммеры",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery"
+    },
+    {
+      "category_id": 73,
+      "parent_id": 9,
+      "name": "Молниезащита и заземление",
+      "url": "elektroustanovochnye-izdeliya/molniezaschita-i-zazemlenie"
+    },
+    {
+      "category_id": 75,
+      "parent_id": 9,
+      "name": "Электроустановочные аксессуары",
+      "url": "elektroustanovochnye-izdeliya/elektroustanovochnye-aksessuary"
+    },
+    {
+      "category_id": 77,
+      "parent_id": 8,
+      "name": "Модульная аппаратура",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura"
+    },
+    {
+      "category_id": 79,
+      "parent_id": 8,
+      "name": "Аппараты защиты с винтовым креплением",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-zaschity-s-vintovym-krepleniem"
+    },
+    {
+      "category_id": 81,
+      "parent_id": 8,
+      "name": "Аппараты распределения энергии",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii"
+    },
+    {
+      "category_id": 83,
+      "parent_id": 8,
+      "name": "Предохранители на номинальное напряжение до 1000 В",
+      "url": "nizkovol-tnoe-oborudovanie/predohraniteli-na-nominal-noe-napryazhenie-do-1000-v"
+    },
+    {
+      "category_id": 85,
+      "parent_id": 8,
+      "name": "Пускатели и контакторы",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory"
+    },
+    {
+      "category_id": 87,
+      "parent_id": 8,
+      "name": "Реле",
+      "url": "nizkovol-tnoe-oborudovanie/rele"
+    },
+    {
+      "category_id": 89,
+      "parent_id": 8,
+      "name": "Счетчики электроэнергии",
+      "url": "nizkovol-tnoe-oborudovanie/schetchiki-elektroenergii"
+    },
+    {
+      "category_id": 91,
+      "parent_id": 8,
+      "name": "Приборы измерительные стационарные",
+      "url": "nizkovol-tnoe-oborudovanie/pribory-izmeritel-nye-stacionarnye"
+    },
+    {
+      "category_id": 93,
+      "parent_id": 8,
+      "name": "Светосигнальная аппаратура",
+      "url": "nizkovol-tnoe-oborudovanie/svetosignal-naya-apparatura"
+    },
+    {
+      "category_id": 95,
+      "parent_id": 8,
+      "name": "Программируемые логические контроллеры (ПЛК)",
+      "url": "nizkovol-tnoe-oborudovanie/programmiruemye-logicheskie-kontrollery-plk"
+    },
+    {
+      "category_id": 97,
+      "parent_id": 8,
+      "name": "Радиодетали и электронные компоненты",
+      "url": "nizkovol-tnoe-oborudovanie/radiodetali-i-elektronnye-komponenty"
+    },
+    {
+      "category_id": 99,
+      "parent_id": 7,
+      "name": "Выключатели, разъединители",
+      "url": "vysokovol-tnoe-oborudovanie/vyklyuchateli-raz-ediniteli"
+    },
+    {
+      "category_id": 58,
+      "parent_id": 7,
+      "name": "Предохранители высоковольтные",
+      "url": "vysokovol-tnoe-oborudovanie/predohraniteli-vysokovol-tnye"
+    },
+    {
+      "category_id": 36,
+      "parent_id": 7,
+      "name": "Изоляторы для ЛЭП, подстанций и контактной сети",
+      "url": "vysokovol-tnoe-oborudovanie/izolyatory-dlya-lep-podstanciy-i-kontaktnoy-seti"
+    },
+    {
+      "category_id": 16,
+      "parent_id": 7,
+      "name": "Устройства компенсации реактивной мощности",
+      "url": "vysokovol-tnoe-oborudovanie/ustroystva-kompensancii-reaktivnoy-moschnosti"
+    },
+    {
+      "category_id": 64,
+      "parent_id": 7,
+      "name": "Ограничители перенапряжения, разрядники",
+      "url": "vysokovol-tnoe-oborudovanie/ogranichiteli-perenapryazheniya-razryadniki"
+    },
+    {
+      "category_id": 38,
+      "parent_id": 7,
+      "name": "Щитовое оборудование",
+      "url": "vysokovol-tnoe-oborudovanie/schitovoe-oborudovanie"
+    },
+    {
+      "category_id": 66,
+      "parent_id": 5,
+      "name": "Трансформаторы",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie/transformatory"
+    },
+    {
+      "category_id": 40,
+      "parent_id": 6,
+      "name": "Электродвигатели",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/elektrodvigateli"
+    },
+    {
+      "category_id": 70,
+      "parent_id": 6,
+      "name": "Приводная техника",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/privodnaya-tehnika"
+    },
+    {
+      "category_id": 14,
+      "parent_id": 3,
+      "name": "Щиты и боксы (пустые)",
+      "url": "schity-shkafy-boksy/schity-i-boksy-pustye"
+    },
+    {
+      "category_id": 72,
+      "parent_id": 3,
+      "name": "Шкафы электротехнические (пустые)",
+      "url": "schity-shkafy-boksy/shkafy-elektrotehnicheskie-pustye"
+    },
+    {
+      "category_id": 42,
+      "parent_id": 3,
+      "name": "Комплектующие для сборки щитов и боксов",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov"
+    },
+    {
+      "category_id": 74,
+      "parent_id": 3,
+      "name": "Шины, шинные изоляторы",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory"
+    },
+    {
+      "category_id": 26,
+      "parent_id": 3,
+      "name": "Шинопровод",
+      "url": "schity-shkafy-boksy/shinoprovod"
+    },
+    {
+      "category_id": 76,
+      "parent_id": 3,
+      "name": "Крепежные изделия щитов, шкафов, боксов",
+      "url": "schity-shkafy-boksy/krepezhnye-izdeliya-schitov-shkafov-boksov"
+    },
+    {
+      "category_id": 44,
+      "parent_id": 4,
+      "name": "Электромонтажный инструмент",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument"
+    },
+    {
+      "category_id": 78,
+      "parent_id": 4,
+      "name": "Измерительные приборы",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory"
+    },
+    {
+      "category_id": 28,
+      "parent_id": 4,
+      "name": "Электрозащитные средства",
+      "url": "instrument-i-elektrozaschita/elektrozaschitnye-sredstva"
+    },
+    {
+      "category_id": 80,
+      "parent_id": 4,
+      "name": "Средства индивидуальной защиты",
+      "url": "instrument-i-elektrozaschita/sredstva-individual-noy-zaschity"
+    },
+    {
+      "category_id": 46,
+      "parent_id": 1,
+      "name": "Источники бесперебойного питания",
+      "url": "istochniki-pitaniya-i-preobrazovateli/istochniki-bespereboynogo-pitaniya"
+    },
+    {
+      "category_id": 82,
+      "parent_id": 1,
+      "name": "Преобразователи напряжения",
+      "url": "istochniki-pitaniya-i-preobrazovateli/preobrazovateli-napryazheniya"
+    },
+    {
+      "category_id": 20,
+      "parent_id": 1,
+      "name": "Стабилизаторы напряжения",
+      "url": "istochniki-pitaniya-i-preobrazovateli/stabilizatory-napryazheniya"
+    },
+    {
+      "category_id": 84,
+      "parent_id": 1,
+      "name": "Частотные преобразователи",
+      "url": "istochniki-pitaniya-i-preobrazovateli/chastotnye-preobrazovateli"
+    },
+    {
+      "category_id": 48,
+      "parent_id": 1,
+      "name": "Блоки питания",
+      "url": "istochniki-pitaniya-i-preobrazovateli/bloki-pitaniya"
+    },
+    {
+      "category_id": 86,
+      "parent_id": 1,
+      "name": "Аккумуляторы",
+      "url": "istochniki-pitaniya-i-preobrazovateli/akkumulyatory"
+    },
+    {
+      "category_id": 88,
+      "parent_id": 1,
+      "name": "Аксессуары к источникам питания и преобразователям",
+      "url": "istochniki-pitaniya-i-preobrazovateli/aksessuary-k-istochnikam-pitaniya-i-preobrazovatelyam"
+    },
+    {
+      "category_id": 50,
+      "parent_id": 2,
+      "name": "Светильники для внутреннего освещения",
+      "url": "svetil-niki/svetil-niki-dlya-vnutrennego-osvescheniya"
+    },
+    {
+      "category_id": 90,
+      "parent_id": 2,
+      "name": "Аварийное освещение",
+      "url": "svetil-niki/avariynoe-osveschenie"
+    },
+    {
+      "category_id": 17,
+      "parent_id": 2,
+      "name": "Светильники наружного освещения",
+      "url": "svetil-niki/svetil-niki-naruzhnogo-osvescheniya"
+    },
+    {
+      "category_id": 92,
+      "parent_id": 2,
+      "name": "Светильники взрывозащищенные",
+      "url": "svetil-niki/svetil-niki-vzryvozaschischennye"
+    },
+    {
+      "category_id": 52,
+      "parent_id": 2,
+      "name": "Светильники переносные и фонари",
+      "url": "svetil-niki/svetil-niki-perenosnye-i-fonari"
+    },
+    {
+      "category_id": 94,
+      "parent_id": 2,
+      "name": "Прожекторы",
+      "url": "svetil-niki/prozhektory"
+    },
+    {
+      "category_id": 32,
+      "parent_id": 2,
+      "name": "Комплектующие",
+      "url": "svetil-niki/komplektuyuschie"
+    },
+    {
+      "category_id": 54,
+      "parent_id": 10,
+      "name": "Светодиодные лампы и модули",
+      "url": "lampy/svetodiodnye-lampy-i-moduli"
+    },
+    {
+      "category_id": 98,
+      "parent_id": 10,
+      "name": "Люминесцентные лампы",
+      "url": "lampy/lyuminescentnye-lampy"
+    },
+    {
+      "category_id": 18,
+      "parent_id": 10,
+      "name": "Газоразрядные лампы",
+      "url": "lampy/gazorazryadnye-lampy"
+    },
+    {
+      "category_id": 100,
+      "parent_id": 10,
+      "name": "Лампы накаливания",
+      "url": "lampy/lampy-nakalivaniya"
+    },
+    {
+      "category_id": 56,
+      "parent_id": 10,
+      "name": "Галогенные лампы",
+      "url": "lampy/galogennye-lampy"
+    },
+    {
+      "category_id": 101,
+      "parent_id": 10,
+      "name": "Лампы специального назначения",
+      "url": "lampy/lampy-special-nogo-naznacheniya"
+    },
+    {
+      "category_id": 551,
+      "parent_id": 7,
+      "name": "Композитные изделия",
+      "url": "vysokovol-tnoe-oborudovanie/kompozitnye-izdelia"
+    },
+    {
+      "category_id": 555,
+      "parent_id": 554,
+      "name": "Опоры",
+      "url": "opory/zelezobetonnye-opory-i-fundamenty"
+    },
+    {
+      "category_id": 558,
+      "parent_id": 554,
+      "name": "Фундаменты",
+      "url": "opory/kompozitnye-opory-i-fundamenty"
+    },
+    {
+      "category_id": 576,
+      "parent_id": 554,
+      "name": "Приставки",
+      "url": "opory/pristavki"
+    },
+    {
+      "category_id": 198,
+      "parent_id": 103,
+      "name": "Медный гибкий кабель",
+      "url": "kabel-i-provod/kabel-gibkiy/mednyy-gibkiy-kabel"
+    },
+    {
+      "category_id": 206,
+      "parent_id": 23,
+      "name": "Коаксиальный",
+      "url": "kabel-i-provod/kabel-svyazi-radiochastotnyy/koaksial-nyy"
+    },
+    {
+      "category_id": 210,
+      "parent_id": 23,
+      "name": "Витая пара",
+      "url": "kabel-i-provod/kabel-svyazi-radiochastotnyy/vitaya-para"
+    },
+    {
+      "category_id": 216,
+      "parent_id": 23,
+      "name": "Телекоммуникационный",
+      "url": "kabel-i-provod/kabel-svyazi-radiochastotnyy/telekommunikacionnyy"
+    },
+    {
+      "category_id": 218,
+      "parent_id": 23,
+      "name": "Сигнальный",
+      "url": "kabel-i-provod/kabel-svyazi-radiochastotnyy/signal-nyy"
+    },
+    {
+      "category_id": 224,
+      "parent_id": 19,
+      "name": "Плоский специальный кабель",
+      "url": "kabel-i-provod/kabel-special-nyy/ploskiy-special-nyy-kabel"
+    },
+    {
+      "category_id": 244,
+      "parent_id": 29,
+      "name": "СИП-1",
+      "url": "kabel-i-provod/provod-sip/sip-1"
+    },
+    {
+      "category_id": 300,
+      "parent_id": 49,
+      "name": "Зажимы",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip/zazhimy"
+    },
+    {
+      "category_id": 302,
+      "parent_id": 49,
+      "name": "Кронштейны и крюки",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip/kronshteyny-i-kryuki"
+    },
+    {
+      "category_id": 304,
+      "parent_id": 49,
+      "name": "Комплекты промежуточной подвески",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip/komplekty-promezhutochnoy-podveski"
+    },
+    {
+      "category_id": 306,
+      "parent_id": 49,
+      "name": "Крепежные изделия для СИП",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip/krepezhnye-izdeliya-dlya-sip"
+    },
+    {
+      "category_id": 308,
+      "parent_id": 49,
+      "name": "Гильзы, наконечники и соединители",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip/gil-zy-nakonechniki-i-soediniteli"
+    },
+    {
+      "category_id": 314,
+      "parent_id": 49,
+      "name": "Спиральные вязки",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip/spiral-nye-vyazki"
+    },
+    {
+      "category_id": 318,
+      "parent_id": 49,
+      "name": "Разное",
+      "url": "elektromontazhnye-izdeliya/armatura-dlya-sip/raznoe"
+    },
+    {
+      "category_id": 320,
+      "parent_id": 51,
+      "name": "Кабельные муфты",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura/kabel-nye-mufty"
+    },
+    {
+      "category_id": 322,
+      "parent_id": 51,
+      "name": "Наконечники, гильзы, трубки",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura/nakonechniki-gil-zy-trubki"
+    },
+    {
+      "category_id": 324,
+      "parent_id": 51,
+      "name": "Зажимы для кабеля",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura/zazhimy-dlya-kabelya"
+    },
+    {
+      "category_id": 326,
+      "parent_id": 51,
+      "name": "Кабельные вводы",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura/kabel-nye-vvody"
+    },
+    {
+      "category_id": 328,
+      "parent_id": 51,
+      "name": "Термоусаживающиеся и изоляционные материалы",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura/termousazhivayuschie-i-izolyacionnye-materialy"
+    },
+    {
+      "category_id": 330,
+      "parent_id": 51,
+      "name": "Кабельные втулки",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura/kabel-nye-vtulki"
+    },
+    {
+      "category_id": 332,
+      "parent_id": 51,
+      "name": "Аксессуары для кабеля",
+      "url": "elektromontazhnye-izdeliya/kabel-naya-armatura/aksessuary-dlya-kabelya"
+    },
+    {
+      "category_id": 334,
+      "parent_id": 53,
+      "name": "Распределительные коробки",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/raspredelitel-nye-korobki"
+    },
+    {
+      "category_id": 336,
+      "parent_id": 53,
+      "name": "Монтажные коробки",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/montazhnye-korobki"
+    },
+    {
+      "category_id": 338,
+      "parent_id": 53,
+      "name": "Стяжки, хомуты",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/styazhki-homuty"
+    },
+    {
+      "category_id": 340,
+      "parent_id": 53,
+      "name": "Клеммы и клеммные колодки",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/klemmy-i-klemmnye-kolodki"
+    },
+    {
+      "category_id": 342,
+      "parent_id": 53,
+      "name": "Клеммные блоки",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/klemmnye-bloki"
+    },
+    {
+      "category_id": 344,
+      "parent_id": 53,
+      "name": "Скобы/клипсы",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/skoby-klipsy"
+    },
+    {
+      "category_id": 346,
+      "parent_id": 53,
+      "name": "Маркировка",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/markirovka"
+    },
+    {
+      "category_id": 348,
+      "parent_id": 53,
+      "name": "Крепежные зажимы",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/krepezhnye-zazhimy"
+    },
+    {
+      "category_id": 350,
+      "parent_id": 53,
+      "name": "Проволока, трос",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/provolka-tros"
+    },
+    {
+      "category_id": 352,
+      "parent_id": 53,
+      "name": "Аксессуары",
+      "url": "elektromontazhnye-izdeliya/materialy-dlya-montazha/aksessuary"
+    },
+    {
+      "category_id": 354,
+      "parent_id": 55,
+      "name": "Штекеры",
+      "url": "elektromontazhnye-izdeliya/raz-emy-i-shtekery/shtekery"
+    },
+    {
+      "category_id": 356,
+      "parent_id": 55,
+      "name": "Разъемы",
+      "url": "elektromontazhnye-izdeliya/raz-emy-i-shtekery/raz-emy"
+    },
+    {
+      "category_id": 358,
+      "parent_id": 55,
+      "name": "Аксессуары для штекеров и разъемов",
+      "url": "elektromontazhnye-izdeliya/raz-emy-i-shtekery/aksessuary-dlya-shtekerov-i-raz-emov"
+    },
+    {
+      "category_id": 360,
+      "parent_id": 57,
+      "name": "Кабель-каналы",
+      "url": "elektromontazhnye-izdeliya/sistemy-provodki-kabelya-plastik-pvh/kabel--kanaly"
+    },
+    {
+      "category_id": 364,
+      "parent_id": 57,
+      "name": "Трубы пластиковые для электропроводки",
+      "url": "elektromontazhnye-izdeliya/sistemy-provodki-kabelya-plastik-pvh/truby-plastikovye-dlya-elektroprovodki"
+    },
+    {
+      "category_id": 368,
+      "parent_id": 57,
+      "name": "Трубы гофрированные",
+      "url": "elektromontazhnye-izdeliya/sistemy-provodki-kabelya-plastik-pvh/truby-gofrirovannye"
+    },
+    {
+      "category_id": 370,
+      "parent_id": 57,
+      "name": "Комплектующие для проводки кабеля",
+      "url": "elektromontazhnye-izdeliya/sistemy-provodki-kabelya-plastik-pvh/komplektuyuschie-dlya-provodki-kabelya"
+    },
+    {
+      "category_id": 372,
+      "parent_id": 59,
+      "name": "Проволочные кабельные лотки",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/provolochnye-kabel-nye-lotki"
+    },
+    {
+      "category_id": 374,
+      "parent_id": 59,
+      "name": "Штампованные кабельные лотки",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/shtampovannye-kabel-nye-lotki"
+    },
+    {
+      "category_id": 376,
+      "parent_id": 59,
+      "name": "Лестничные кабельные лотки",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/lestnichnye-kabel-nye-lotki"
+    },
+    {
+      "category_id": 378,
+      "parent_id": 59,
+      "name": "Секции для кабельных лотков",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/sekcii-dlya-kabel-nyh-lotkov"
+    },
+    {
+      "category_id": 380,
+      "parent_id": 59,
+      "name": "Крышки для кабельных лотков",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/kryshki-dlya-kabel-nyh-lotkov"
+    },
+    {
+      "category_id": 382,
+      "parent_id": 59,
+      "name": "Колонны",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/kolonny"
+    },
+    {
+      "category_id": 384,
+      "parent_id": 59,
+      "name": "Системы электропроводки под полом",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/sistemy-elektroprovodki-pod-polom"
+    },
+    {
+      "category_id": 386,
+      "parent_id": 59,
+      "name": "Металлорукав",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/metallorukav"
+    },
+    {
+      "category_id": 388,
+      "parent_id": 59,
+      "name": "Трубы металлические",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/truby-metallicheskie"
+    },
+    {
+      "category_id": 390,
+      "parent_id": 59,
+      "name": "Комплектующие кабеленесущих систем",
+      "url": "elektromontazhnye-izdeliya/metallicheskie-kabelenesuschie-sistemy/komplektuyuschie-kabelenesuschih-sistem"
+    },
+    {
+      "category_id": 392,
+      "parent_id": 61,
+      "name": "Розетки силовые",
+      "url": "elektroustanovochnye-izdeliya/rozetki/rozetki-silovye"
+    },
+    {
+      "category_id": 394,
+      "parent_id": 61,
+      "name": "Встраиваемые розетки",
+      "url": "elektroustanovochnye-izdeliya/rozetki/vstraivaemye-rozetki"
+    },
+    {
+      "category_id": 396,
+      "parent_id": 61,
+      "name": "Накладные розетки",
+      "url": "elektroustanovochnye-izdeliya/rozetki/nakladnye-rozetki"
+    },
+    {
+      "category_id": 398,
+      "parent_id": 61,
+      "name": "Розетки щитовые, на DIN-рейку",
+      "url": "elektroustanovochnye-izdeliya/rozetki/rozetki-schitovye-na-din-reyku"
+    },
+    {
+      "category_id": 400,
+      "parent_id": 61,
+      "name": "Розетки антенные, информационные",
+      "url": "elektroustanovochnye-izdeliya/rozetki/rozetki-antennye-informacionnye"
+    },
+    {
+      "category_id": 402,
+      "parent_id": 61,
+      "name": "Комплектующие для розеток",
+      "url": "elektroustanovochnye-izdeliya/rozetki/komplektuyuschie-dlya-rozetok"
+    },
+    {
+      "category_id": 404,
+      "parent_id": 63,
+      "name": "Удлинители, сетевые фильтры",
+      "url": "elektroustanovochnye-izdeliya/udleniteli-setevye-fil-try-razvetviteli/udliniteli-setevye-fil-try"
+    },
+    {
+      "category_id": 406,
+      "parent_id": 63,
+      "name": "Вилки электрические",
+      "url": "elektroustanovochnye-izdeliya/udleniteli-setevye-fil-try-razvetviteli/vilki-elektricheskie"
+    },
+    {
+      "category_id": 408,
+      "parent_id": 63,
+      "name": "Адаптеры и переходники",
+      "url": "elektroustanovochnye-izdeliya/udleniteli-setevye-fil-try-razvetviteli/adaptery-i-perehodniki"
+    },
+    {
+      "category_id": 410,
+      "parent_id": 63,
+      "name": "Разветвители",
+      "url": "elektroustanovochnye-izdeliya/udleniteli-setevye-fil-try-razvetviteli/razvetviteli"
+    },
+    {
+      "category_id": 412,
+      "parent_id": 65,
+      "name": "Встраиваемые выключатели",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli/vstraivaemye-vyklyuchateli"
+    },
+    {
+      "category_id": 414,
+      "parent_id": 65,
+      "name": "Накладные выключатели",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli/nakladnye-vyklyuchateli"
+    },
+    {
+      "category_id": 416,
+      "parent_id": 65,
+      "name": "Шнуровые выключатели",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli/shnurovye-vyklyuchateli"
+    },
+    {
+      "category_id": 418,
+      "parent_id": 65,
+      "name": "Диммеры",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli/dimmery"
+    },
+    {
+      "category_id": 420,
+      "parent_id": 65,
+      "name": "Сенсоры и выключатели с дистанционным управлением",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli/sensory-i-vyklyuchateli-s-distancionnym-upravleniem"
+    },
+    {
+      "category_id": 422,
+      "parent_id": 65,
+      "name": "Терморегуляторы",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli/termoregulyatory"
+    },
+    {
+      "category_id": 424,
+      "parent_id": 65,
+      "name": "Комплектующие для выключателей",
+      "url": "elektroustanovochnye-izdeliya/vyklyuchateli/komplektuyuschie-dlya-vyklyuchateley"
+    },
+    {
+      "category_id": 426,
+      "parent_id": 67,
+      "name": "Блоки выключателя и розеток",
+      "url": "elektroustanovochnye-izdeliya/kombinirovannye-bloki/bloki-vyklyuchatelya-i-rozetok"
+    },
+    {
+      "category_id": 428,
+      "parent_id": 67,
+      "name": "Блоки комбинированные",
+      "url": "elektroustanovochnye-izdeliya/kombinirovannye-bloki/bloki-kombinirovannye"
+    },
+    {
+      "category_id": 430,
+      "parent_id": 67,
+      "name": "Энергетические стойки",
+      "url": "elektroustanovochnye-izdeliya/kombinirovannye-bloki/energeticheskie-stoyki"
+    },
+    {
+      "category_id": 432,
+      "parent_id": 67,
+      "name": "Энергетические боксы",
+      "url": "elektroustanovochnye-izdeliya/kombinirovannye-bloki/energeticheskie-boksy"
+    },
+    {
+      "category_id": 434,
+      "parent_id": 69,
+      "name": "Датчик движения, присутствия",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/datchik-dvizheniya-prisutstviya"
+    },
+    {
+      "category_id": 436,
+      "parent_id": 69,
+      "name": "Датчик давления",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/datchik-davleniya"
+    },
+    {
+      "category_id": 438,
+      "parent_id": 69,
+      "name": "Индуктивный датчик",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/induktivnyy-datchik"
+    },
+    {
+      "category_id": 440,
+      "parent_id": 69,
+      "name": "Термодатчик (датчик температуры/влажности)",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/termodatchik-datchik-temperatury-vlazhnosti"
+    },
+    {
+      "category_id": 442,
+      "parent_id": 69,
+      "name": "Датчик цвета",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/datchik-cveta"
+    },
+    {
+      "category_id": 444,
+      "parent_id": 69,
+      "name": "Датчик контраста",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/datchik-kontrasta"
+    },
+    {
+      "category_id": 446,
+      "parent_id": 69,
+      "name": "Датчик освещенности",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/datchik-osveschennosti"
+    },
+    {
+      "category_id": 450,
+      "parent_id": 69,
+      "name": "Таймеры",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/taymery"
+    },
+    {
+      "category_id": 452,
+      "parent_id": 69,
+      "name": "Охранно-пожарные приборы",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/ohranno-pozharnye-pribory"
+    },
+    {
+      "category_id": 454,
+      "parent_id": 69,
+      "name": "Изделия для систем 'Умный дом'",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/izdeliya-dlya-sistem-umnyy-dom"
+    },
+    {
+      "category_id": 456,
+      "parent_id": 69,
+      "name": "Комплектующие для устройств контроля",
+      "url": "elektroustanovochnye-izdeliya/ustroystva-kontrolya/komplektuyuschie-dlya-ustroystv-kontrolya"
+    },
+    {
+      "category_id": 458,
+      "parent_id": 71,
+      "name": "Звонки",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery/zvonki"
+    },
+    {
+      "category_id": 460,
+      "parent_id": 71,
+      "name": "Трансформаторы звонковые",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery/transformatory-zvonkovye"
+    },
+    {
+      "category_id": 462,
+      "parent_id": 71,
+      "name": "Зуммеры",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery/zummery"
+    },
+    {
+      "category_id": 464,
+      "parent_id": 71,
+      "name": "Аудиодомофоны",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery/audiodomofony"
+    },
+    {
+      "category_id": 466,
+      "parent_id": 71,
+      "name": "Видеодомофоны",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery/videodomofony"
+    },
+    {
+      "category_id": 468,
+      "parent_id": 71,
+      "name": "Устройства для внутренней связи",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery/ustroystva-dlya-vnutrenney-svyazi"
+    },
+    {
+      "category_id": 470,
+      "parent_id": 71,
+      "name": "Комплектующие для домофонных систем",
+      "url": "elektroustanovochnye-izdeliya/domofonnye-sistemy-zvonki-zummery/komplektuyuschie-dlya-domofonnyh-sistem"
+    },
+    {
+      "category_id": 472,
+      "parent_id": 73,
+      "name": "Заземлители",
+      "url": "elektroustanovochnye-izdeliya/molniezaschita-i-zazemlenie/zazemliteli"
+    },
+    {
+      "category_id": 474,
+      "parent_id": 73,
+      "name": "Молниеприемники",
+      "url": "elektroustanovochnye-izdeliya/molniezaschita-i-zazemlenie/molniepriemniki"
+    },
+    {
+      "category_id": 476,
+      "parent_id": 77,
+      "name": "Автоматические выключатели модульные",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/avtomaticheskie-vyklyuchateli-modul-nye"
+    },
+    {
+      "category_id": 478,
+      "parent_id": 77,
+      "name": "Устройства защитного отключения УЗО",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/ustroystva-zaschitnogo-otklyucheniya-uzo"
+    },
+    {
+      "category_id": 480,
+      "parent_id": 77,
+      "name": "Дифференциальные автоматические выключатели",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/differencial-nye-avtomaticheskie-vyklyuchateli"
+    },
+    {
+      "category_id": 482,
+      "parent_id": 77,
+      "name": "Селективные автоматические выключатели",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/selektivnye-avtomaticheskie-vyklyuchateli"
+    },
+    {
+      "category_id": 484,
+      "parent_id": 77,
+      "name": "Контакторы модульные",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/kontaktory-modul-nye"
+    },
+    {
+      "category_id": 486,
+      "parent_id": 77,
+      "name": "Модульные кнопки, индикаторы",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/modul-nye-knopki-indikatory"
+    },
+    {
+      "category_id": 488,
+      "parent_id": 77,
+      "name": "Устройства защиты от перенапряжений",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/ustroystva-zaschity-ot-perenapryazheniy"
+    },
+    {
+      "category_id": 490,
+      "parent_id": 77,
+      "name": "Устройства защиты от искрения",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/ustroystva-zaschity-ot-iskreniya"
+    },
+    {
+      "category_id": 492,
+      "parent_id": 77,
+      "name": "Дополнительные модульные устройства",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/dopolnitel-nye-modul-nye-ustroystva"
+    },
+    {
+      "category_id": 494,
+      "parent_id": 77,
+      "name": "Выключатели пуска двигателя",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/vyklyuchateli-puska-dvigatelya"
+    },
+    {
+      "category_id": 496,
+      "parent_id": 77,
+      "name": "Трехпозиционные переключатели",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/trehpozicionnye-pereklyuchateli"
+    },
+    {
+      "category_id": 498,
+      "parent_id": 77,
+      "name": "Расцепители",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/rascepiteli"
+    },
+    {
+      "category_id": 500,
+      "parent_id": 77,
+      "name": "Измерительные приборы модульные",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/izmeritel-nye-pribory-modul-nye"
+    },
+    {
+      "category_id": 502,
+      "parent_id": 77,
+      "name": "Аксессуары для модульной аппаратуры",
+      "url": "nizkovol-tnoe-oborudovanie/modul-naya-apparatura/aksessuary-dlya-modul-noy-apparatury"
+    },
+    {
+      "category_id": 504,
+      "parent_id": 79,
+      "name": "Автоматические выключатели в литом корпусе",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-zaschity-s-vintovym-krepleniem/avtomaticheskie-vyklyuchateli-v-litom-korpuse"
+    },
+    {
+      "category_id": 506,
+      "parent_id": 79,
+      "name": "Автоматические воздушные выключатели",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-zaschity-s-vintovym-krepleniem/avtomaticheskie-vozdushnye-vyklyuchateli"
+    },
+    {
+      "category_id": 508,
+      "parent_id": 79,
+      "name": "Автоматические выключатели защиты двигателя",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-zaschity-s-vintovym-krepleniem/avtomaticheskie-vyklyuchateli-zaschity-dvigatelya"
+    },
+    {
+      "category_id": 510,
+      "parent_id": 79,
+      "name": "Устройства плавного пуска двигателя",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-zaschity-s-vintovym-krepleniem/ustroystva-plavnogo-puska-dvigatelya"
+    },
+    {
+      "category_id": 514,
+      "parent_id": 79,
+      "name": "Аксессуары для аппаратов защиты",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-zaschity-s-vintovym-krepleniem/aksessuary-dlya-apparatov-zaschity"
+    },
+    {
+      "category_id": 516,
+      "parent_id": 81,
+      "name": "Рубильники",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/rubil-niki"
+    },
+    {
+      "category_id": 518,
+      "parent_id": 81,
+      "name": "Выключатели нагрузки и разъединители",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/vyklyuchateli-nagruzki-i-raz-ediniteli"
+    },
+    {
+      "category_id": 520,
+      "parent_id": 81,
+      "name": "Пакетные и кулачковые переключатели",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/paketnye-i-kulachkovye-pereklyuchateli"
+    },
+    {
+      "category_id": 522,
+      "parent_id": 81,
+      "name": "Поворотные переключатели",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/povorotnye-pereklyuchateli"
+    },
+    {
+      "category_id": 524,
+      "parent_id": 81,
+      "name": "Концевые и путевые выключатели",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/koncevye-i-putevye-vyklyuchateli"
+    },
+    {
+      "category_id": 526,
+      "parent_id": 81,
+      "name": "Селекторные переключатели",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/selektornye-pereklyuchateli"
+    },
+    {
+      "category_id": 528,
+      "parent_id": 81,
+      "name": "Кнопочные посты",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/knopochnye-posty"
+    },
+    {
+      "category_id": 530,
+      "parent_id": 81,
+      "name": "Кнопки",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/knopki"
+    },
+    {
+      "category_id": 532,
+      "parent_id": 81,
+      "name": "Элементы управления разные",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/elementy-upravleniya-raznye"
+    },
+    {
+      "category_id": 534,
+      "parent_id": 81,
+      "name": "Аксессуары для элементов управления",
+      "url": "nizkovol-tnoe-oborudovanie/apparaty-raspredeleniya-energii/aksessuary-dlya-elementov-upravleniya"
+    },
+    {
+      "category_id": 536,
+      "parent_id": 83,
+      "name": "Вставки плавкие до 1000 В",
+      "url": "nizkovol-tnoe-oborudovanie/predohraniteli-na-nominal-noe-napryazhenie-do-1000-v/vstavki-plavkie-do-1000-v"
+    },
+    {
+      "category_id": 538,
+      "parent_id": 83,
+      "name": "Предохранители до 1000 В",
+      "url": "nizkovol-tnoe-oborudovanie/predohraniteli-na-nominal-noe-napryazhenie-do-1000-v/predohraniteli-do-1000-v"
+    },
+    {
+      "category_id": 542,
+      "parent_id": 83,
+      "name": "Держатели, адаптеры и аксессуары",
+      "url": "nizkovol-tnoe-oborudovanie/predohraniteli-na-nominal-noe-napryazhenie-do-1000-v/derzhateli-adaptory-i-aksessuary"
+    },
+    {
+      "category_id": 546,
+      "parent_id": 85,
+      "name": "Магнитные пускатели и контакторы",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/magnitnye-puskateli-i-kontaktory"
+    },
+    {
+      "category_id": 548,
+      "parent_id": 85,
+      "name": "Комбинированные пускатели",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/kombinirovannye-puskateli"
+    },
+    {
+      "category_id": 550,
+      "parent_id": 85,
+      "name": "Вакуумные контакторы",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/vakuumnye-kontaktory"
+    },
+    {
+      "category_id": 264,
+      "parent_id": 85,
+      "name": "Контакторы для коммутации конденсаторов",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/kontaktory-dlya-kommutacii-kondensatorov"
+    },
+    {
+      "category_id": 277,
+      "parent_id": 85,
+      "name": "Полупроводниковые контакторы",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/poluprovodnikovye-kontaktory"
+    },
+    {
+      "category_id": 266,
+      "parent_id": 85,
+      "name": "Миниконтакторы",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/minikontaktory"
+    },
+    {
+      "category_id": 279,
+      "parent_id": 85,
+      "name": "Резисторы",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/rezistory"
+    },
+    {
+      "category_id": 268,
+      "parent_id": 85,
+      "name": "Дополнительные устройства для контакторов",
+      "url": "nizkovol-tnoe-oborudovanie/puskateli-i-kontaktory/dopolnitel-nye-ustroystva-dlya-kontaktorov"
+    },
+    {
+      "category_id": 281,
+      "parent_id": 87,
+      "name": "Реле промежуточные",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-promezhutochnye"
+    },
+    {
+      "category_id": 270,
+      "parent_id": 87,
+      "name": "Реле импульсные",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-impul-snye"
+    },
+    {
+      "category_id": 283,
+      "parent_id": 87,
+      "name": "Реле напряжения",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-napryazheniya"
+    },
+    {
+      "category_id": 272,
+      "parent_id": 87,
+      "name": "Реле давления",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-davleniya"
+    },
+    {
+      "category_id": 285,
+      "parent_id": 87,
+      "name": "Реле времени",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-vremeni"
+    },
+    {
+      "category_id": 274,
+      "parent_id": 87,
+      "name": "Реле тока",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-toka"
+    },
+    {
+      "category_id": 287,
+      "parent_id": 87,
+      "name": "Реле тока электротепловые",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-toka-elektroteplovye"
+    },
+    {
+      "category_id": 276,
+      "parent_id": 87,
+      "name": "Реле перегрузки тепловые",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-peregruzki-teplovye"
+    },
+    {
+      "category_id": 289,
+      "parent_id": 87,
+      "name": "Реле защиты и управления",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-zaschity-i-upravleniya"
+    },
+    {
+      "category_id": 186,
+      "parent_id": 87,
+      "name": "Реле выбора фаз и АВР",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-vybora-faz-i-avr"
+    },
+    {
+      "category_id": 291,
+      "parent_id": 87,
+      "name": "Реле контроля наличия и чередования фаз",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-faz"
+    },
+    {
+      "category_id": 188,
+      "parent_id": 87,
+      "name": "Реле контроля безопасности цепей",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-bezopasnosti-cepey"
+    },
+    {
+      "category_id": 293,
+      "parent_id": 87,
+      "name": "Реле контроля сопротивления изоляции",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-soprotivleniya-izolyacii"
+    },
+    {
+      "category_id": 190,
+      "parent_id": 87,
+      "name": "Реле контроля мощности",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-moschnosti"
+    },
+    {
+      "category_id": 295,
+      "parent_id": 87,
+      "name": "Реле контроля питания",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-pitaniya"
+    },
+    {
+      "category_id": 125,
+      "parent_id": 87,
+      "name": "Реле контроля скорости",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-skorosti"
+    },
+    {
+      "category_id": 297,
+      "parent_id": 87,
+      "name": "Реле контроля жидкости, газа",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-zhidkosti-gaza"
+    },
+    {
+      "category_id": 149,
+      "parent_id": 87,
+      "name": "Реле контроля частоты",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-chastoty"
+    },
+    {
+      "category_id": 299,
+      "parent_id": 87,
+      "name": "Реле контроля температуры",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-temperatury"
+    },
+    {
+      "category_id": 107,
+      "parent_id": 87,
+      "name": "Реле контроля уровня, наполнения",
+      "url": "nizkovol-tnoe-oborudovanie/rele/rele-kontrolya-urovnya-napolneniya"
+    },
+    {
+      "category_id": 301,
+      "parent_id": 87,
+      "name": "Твердотельные реле",
+      "url": "nizkovol-tnoe-oborudovanie/rele/tverdotel-nye-rele"
+    },
+    {
+      "category_id": 151,
+      "parent_id": 87,
+      "name": "Коммутационные реле",
+      "url": "nizkovol-tnoe-oborudovanie/rele/kommutacionnye-rele"
+    },
+    {
+      "category_id": 303,
+      "parent_id": 87,
+      "name": "Программируемые реле",
+      "url": "nizkovol-tnoe-oborudovanie/rele/programmiruemye-rele"
+    },
+    {
+      "category_id": 127,
+      "parent_id": 87,
+      "name": "Фотореле",
+      "url": "nizkovol-tnoe-oborudovanie/rele/fotorele"
+    },
+    {
+      "category_id": 305,
+      "parent_id": 87,
+      "name": "Термостаты",
+      "url": "nizkovol-tnoe-oborudovanie/rele/termostaty"
+    },
+    {
+      "category_id": 153,
+      "parent_id": 87,
+      "name": "Аксессуары для реле",
+      "url": "nizkovol-tnoe-oborudovanie/rele/aksessuary-dlya-rele"
+    },
+    {
+      "category_id": 106,
+      "parent_id": 89,
+      "name": "Счетчики трансформаторного включения до 10 А",
+      "url": "nizkovol-tnoe-oborudovanie/schetchiki-elektroenergii/schetchiki-transformatornogo-vklyucheniya-do-10-a"
+    },
+    {
+      "category_id": 309,
+      "parent_id": 89,
+      "name": "Счетчики прямого включения от 10 до 100 А",
+      "url": "nizkovol-tnoe-oborudovanie/schetchiki-elektroenergii/schetchiki-pryamogo-vklyucheniya-ot-10-do-100-a"
+    },
+    {
+      "category_id": 155,
+      "parent_id": 89,
+      "name": "Аксессуары для счетчиков",
+      "url": "nizkovol-tnoe-oborudovanie/schetchiki-elektroenergii/aksessuary-dlya-schetchikov"
+    },
+    {
+      "category_id": 311,
+      "parent_id": 91,
+      "name": "Амперметры",
+      "url": "nizkovol-tnoe-oborudovanie/pribory-izmeritel-nye-stacionarnye/ampermetry"
+    },
+    {
+      "category_id": 129,
+      "parent_id": 91,
+      "name": "Вольтметры",
+      "url": "nizkovol-tnoe-oborudovanie/pribory-izmeritel-nye-stacionarnye/vol-tmetry"
+    },
+    {
+      "category_id": 313,
+      "parent_id": 91,
+      "name": "Частотомеры, ваттметры, фазометры",
+      "url": "nizkovol-tnoe-oborudovanie/pribory-izmeritel-nye-stacionarnye/chastotomery-vattmetry-fazometry"
+    },
+    {
+      "category_id": 315,
+      "parent_id": 91,
+      "name": "Многофункциональные измерительные приборы",
+      "url": "nizkovol-tnoe-oborudovanie/pribory-izmeritel-nye-stacionarnye/mnogofunkcional-nye-izmeritel-nye-pribory"
+    },
+    {
+      "category_id": 105,
+      "parent_id": 91,
+      "name": "Прочие измерительные приборы",
+      "url": "nizkovol-tnoe-oborudovanie/pribory-izmeritel-nye-stacionarnye/prochie-izmeritel-nye-pribory"
+    },
+    {
+      "category_id": 317,
+      "parent_id": 91,
+      "name": "Комплектующие к электроизмерительным приборам",
+      "url": "nizkovol-tnoe-oborudovanie/pribory-izmeritel-nye-stacionarnye/komplektuyuschie-k-elektroizmeritel-nym-priboram"
+    },
+    {
+      "category_id": 159,
+      "parent_id": 93,
+      "name": "Лампы сигнальные",
+      "url": "nizkovol-tnoe-oborudovanie/svetosignal-naya-apparatura/lampy-signal-nye"
+    },
+    {
+      "category_id": 319,
+      "parent_id": 93,
+      "name": "Индикаторы",
+      "url": "nizkovol-tnoe-oborudovanie/svetosignal-naya-apparatura/indikatory"
+    },
+    {
+      "category_id": 131,
+      "parent_id": 93,
+      "name": "Звуковые оповещатели",
+      "url": "nizkovol-tnoe-oborudovanie/svetosignal-naya-apparatura/zvukovye-opoveschateli"
+    },
+    {
+      "category_id": 321,
+      "parent_id": 93,
+      "name": "Устройства световой сигнализации",
+      "url": "nizkovol-tnoe-oborudovanie/svetosignal-naya-apparatura/ustroystva-svetovoy-signalizacii"
+    },
+    {
+      "category_id": 161,
+      "parent_id": 93,
+      "name": "Комплектующие для светосигнальной аппаратуры",
+      "url": "nizkovol-tnoe-oborudovanie/svetosignal-naya-apparatura/komplektuyuschie-dlya-svetosignal-noy-apparatury"
+    },
+    {
+      "category_id": 323,
+      "parent_id": 99,
+      "name": "Выключатели нагрузки и разъединители высоковольтные",
+      "url": "vysokovol-tnoe-oborudovanie/vyklyuchateli-raz-ediniteli/vyklyuchateli-nagruzki-i-raz-ediniteli-vysokovol-tnye"
+    },
+    {
+      "category_id": 325,
+      "parent_id": 99,
+      "name": "Вакуумные выключатели",
+      "url": "vysokovol-tnoe-oborudovanie/vyklyuchateli-raz-ediniteli/vakuumnye-vyklyuchateli"
+    },
+    {
+      "category_id": 329,
+      "parent_id": 58,
+      "name": "Токоограничивающие патроны",
+      "url": "vysokovol-tnoe-oborudovanie/predohraniteli-vysokovol-tnye/tokoogranichivayuschie-patrony"
+    },
+    {
+      "category_id": 165,
+      "parent_id": 58,
+      "name": "Предохранители выше 1000 В разные",
+      "url": "vysokovol-tnoe-oborudovanie/predohraniteli-vysokovol-tnye/predohraniteli-vyshe-1000-v-raznye"
+    },
+    {
+      "category_id": 345,
+      "parent_id": 36,
+      "name": "Опорные изоляторы",
+      "url": "vysokovol-tnoe-oborudovanie/izolyatory-dlya-lep-podstanciy-i-kontaktnoy-seti/opornye-izolyatory"
+    },
+    {
+      "category_id": 173,
+      "parent_id": 36,
+      "name": "Проходные изоляторы",
+      "url": "vysokovol-tnoe-oborudovanie/izolyatory-dlya-lep-podstanciy-i-kontaktnoy-seti/prohodnye-izolyatory"
+    },
+    {
+      "category_id": 139,
+      "parent_id": 16,
+      "name": "Конденсаторы",
+      "url": "vysokovol-tnoe-oborudovanie/ustroystva-kompensancii-reaktivnoy-moschnosti/kondensatory"
+    },
+    {
+      "category_id": 353,
+      "parent_id": 16,
+      "name": "Дроссели",
+      "url": "vysokovol-tnoe-oborudovanie/ustroystva-kompensancii-reaktivnoy-moschnosti/drosseli"
+    },
+    {
+      "category_id": 177,
+      "parent_id": 64,
+      "name": "Разрядники",
+      "url": "vysokovol-tnoe-oborudovanie/ogranichiteli-perenapryazheniya-razryadniki/razryadniki"
+    },
+    {
+      "category_id": 121,
+      "parent_id": 64,
+      "name": "Устройства защиты от перенапряжения",
+      "url": "vysokovol-tnoe-oborudovanie/ogranichiteli-perenapryazheniya-razryadniki/ustroystva-zaschity-ot-perenapryazheniya"
+    },
+    {
+      "category_id": 357,
+      "parent_id": 38,
+      "name": "КРУ Комплектные распределительные устройства",
+      "url": "vysokovol-tnoe-oborudovanie/schitovoe-oborudovanie/kru-komplektnye-raspredelitel-nye-ustroystva"
+    },
+    {
+      "category_id": 359,
+      "parent_id": 38,
+      "name": "НКУ Низковольтные комплектные устройства",
+      "url": "vysokovol-tnoe-oborudovanie/schitovoe-oborudovanie/nku-nizkovol-tnye-komplektnye-ustroystva"
+    },
+    {
+      "category_id": 109,
+      "parent_id": 38,
+      "name": "ШР Шкафы распределительные",
+      "url": "vysokovol-tnoe-oborudovanie/schitovoe-oborudovanie/shr-shkafy-raspredelitel-nye"
+    },
+    {
+      "category_id": 552,
+      "parent_id": 551,
+      "name": "Кронштейны",
+      "url": "vysokovol-tnoe-oborudovanie/kompozitnye-izdelia/kronstejny"
+    },
+    {
+      "category_id": 369,
+      "parent_id": 66,
+      "name": "Силовые трансформаторы до 630 кВА",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie/transformatory/silovye-transformatory-do-630-kva"
+    },
+    {
+      "category_id": 185,
+      "parent_id": 66,
+      "name": "Силовые трансформаторы 630 - 6300 кВА",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie/transformatory/silovye-transformatory-630---6300-kva"
+    },
+    {
+      "category_id": 371,
+      "parent_id": 66,
+      "name": "Силовые трансформаторы выше 6300 кВА",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie/transformatory/silovye-transformatory-vyshe-6300-kva"
+    },
+    {
+      "category_id": 187,
+      "parent_id": 66,
+      "name": "Трансформаторы напряжения",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie/transformatory/transformatory-napryazheniya"
+    },
+    {
+      "category_id": 375,
+      "parent_id": 66,
+      "name": "Трансформаторы тока",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie/transformatory/transformatory-toka"
+    },
+    {
+      "category_id": 379,
+      "parent_id": 66,
+      "name": "Аксессуары для трансформаторов",
+      "url": "transformatory-podstancii-schitovoe-oborudovanie/transformatory/aksessuary-dlya-transformatorov"
+    },
+    {
+      "category_id": 391,
+      "parent_id": 40,
+      "name": "Асинхронные электродвигатели",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/elektrodvigateli/asinhronnye-elektrodvigateli"
+    },
+    {
+      "category_id": 117,
+      "parent_id": 40,
+      "name": "Синхронные электродвигатели",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/elektrodvigateli/sinhronnye-elektrodvigateli"
+    },
+    {
+      "category_id": 393,
+      "parent_id": 40,
+      "name": "Серводвигатели",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/elektrodvigateli/servodvigateli"
+    },
+    {
+      "category_id": 197,
+      "parent_id": 40,
+      "name": "Комплектующие для электродвигателей",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/elektrodvigateli/komplektuyuschie-dlya-elektrodvigateley"
+    },
+    {
+      "category_id": 395,
+      "parent_id": 70,
+      "name": "Редукторы",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/privodnaya-tehnika/reduktory"
+    },
+    {
+      "category_id": 116,
+      "parent_id": 70,
+      "name": "Мотор-редукторы",
+      "url": "elektrodvigateli-i-privodnaya-tehnika/privodnaya-tehnika/motor-reduktory"
+    },
+    {
+      "category_id": 397,
+      "parent_id": 14,
+      "name": "Распределительные щиты",
+      "url": "schity-shkafy-boksy/schity-i-boksy-pustye/raspredelitel-nye-schity"
+    },
+    {
+      "category_id": 399,
+      "parent_id": 14,
+      "name": "Монтажные щиты и боксы",
+      "url": "schity-shkafy-boksy/schity-i-boksy-pustye/montazhnye-schity-i-boksy"
+    },
+    {
+      "category_id": 401,
+      "parent_id": 14,
+      "name": "Щиты освещения",
+      "url": "schity-shkafy-boksy/schity-i-boksy-pustye/schity-osvescheniya"
+    },
+    {
+      "category_id": 403,
+      "parent_id": 14,
+      "name": "Щиты учета электроэнергии ЩУ",
+      "url": "schity-shkafy-boksy/schity-i-boksy-pustye/schity-ucheta-elektroenergii-schu"
+    },
+    {
+      "category_id": 114,
+      "parent_id": 72,
+      "name": "Металлические шкафы",
+      "url": "schity-shkafy-boksy/shkafy-elektrotehnicheskie-pustye/metallicheskie-shkafy"
+    },
+    {
+      "category_id": 405,
+      "parent_id": 72,
+      "name": "Серверные и сетевые шкафы",
+      "url": "schity-shkafy-boksy/shkafy-elektrotehnicheskie-pustye/servernye-i-setevye-shkafy"
+    },
+    {
+      "category_id": 203,
+      "parent_id": 72,
+      "name": "Взрывобезопасные шкафы",
+      "url": "schity-shkafy-boksy/shkafy-elektrotehnicheskie-pustye/vzryvobezopasnye-shkafy"
+    },
+    {
+      "category_id": 407,
+      "parent_id": 42,
+      "name": "Рамы, цоколи",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/ramy-cokoli"
+    },
+    {
+      "category_id": 113,
+      "parent_id": 42,
+      "name": "Двери",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/dveri"
+    },
+    {
+      "category_id": 409,
+      "parent_id": 42,
+      "name": "Панели, стенки",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/paneli-stenki"
+    },
+    {
+      "category_id": 205,
+      "parent_id": 42,
+      "name": "Полки",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/polki"
+    },
+    {
+      "category_id": 411,
+      "parent_id": 42,
+      "name": "Пластроны и панели для оборудования",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/plastrony-i-paneli-dlya-oborudovaniya"
+    },
+    {
+      "category_id": 112,
+      "parent_id": 42,
+      "name": "Монтажные пластины/платы",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/montazhnye-plastiny-platy"
+    },
+    {
+      "category_id": 413,
+      "parent_id": 42,
+      "name": "Профили, рейки",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/profili-reyki"
+    },
+    {
+      "category_id": 207,
+      "parent_id": 42,
+      "name": "DIN-рейки",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/din-reyki"
+    },
+    {
+      "category_id": 415,
+      "parent_id": 42,
+      "name": "Консоли",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/konsoli"
+    },
+    {
+      "category_id": 111,
+      "parent_id": 42,
+      "name": "Микроклимат щитов и шкафов",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/mikroklimat-schitov-i-shkafov"
+    },
+    {
+      "category_id": 417,
+      "parent_id": 42,
+      "name": "Аксессуары к шкафам",
+      "url": "schity-shkafy-boksy/komplektuyuschie-dlya-sborki-schitov-i-boksov/aksessuary-k-shkafam"
+    },
+    {
+      "category_id": 209,
+      "parent_id": 74,
+      "name": "Шины N нулевые",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/shiny-n-nulevye"
+    },
+    {
+      "category_id": 419,
+      "parent_id": 74,
+      "name": "Шины фазные",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/shiny-fazovye"
+    },
+    {
+      "category_id": 120,
+      "parent_id": 74,
+      "name": "Шины в корпусе (кросс-модули)",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/shiny-v-korpuse-kross-moduli"
+    },
+    {
+      "category_id": 421,
+      "parent_id": 74,
+      "name": "Шины алюминиевые",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/shiny-alyuminievye"
+    },
+    {
+      "category_id": 211,
+      "parent_id": 74,
+      "name": "Шины медные",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/shiny-mednye"
+    },
+    {
+      "category_id": 423,
+      "parent_id": 74,
+      "name": "Шины гибкие",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/shiny-gibkie"
+    },
+    {
+      "category_id": 122,
+      "parent_id": 74,
+      "name": "Изоляторы шинные",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/izolyatory-shinnye"
+    },
+    {
+      "category_id": 425,
+      "parent_id": 74,
+      "name": "Изоляторы ступенчатые",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/izolyatory-stupenchatye"
+    },
+    {
+      "category_id": 213,
+      "parent_id": 74,
+      "name": "Оборудование для информационной шины",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/oborudovanie-dlya-informacionnoy-shiny"
+    },
+    {
+      "category_id": 427,
+      "parent_id": 74,
+      "name": "Комплектующие для шин и шинных изоляторов",
+      "url": "schity-shkafy-boksy/shiny-shinnye-izolyatory/komplektuyuschie-dlya-shin-i-shinnyh-izolyatorov"
+    },
+    {
+      "category_id": 124,
+      "parent_id": 26,
+      "name": "Секции шинопровода",
+      "url": "schity-shkafy-boksy/shinoprovod/sekcii-shinoprovoda"
+    },
+    {
+      "category_id": 429,
+      "parent_id": 26,
+      "name": "Шинные ответвительные коробки",
+      "url": "schity-shkafy-boksy/shinoprovod/shinnye-otvetvitel-nye-korobki"
+    },
+    {
+      "category_id": 215,
+      "parent_id": 26,
+      "name": "Элементы подвода питания для сборной шины",
+      "url": "schity-shkafy-boksy/shinoprovod/elementy-podvoda-pitaniya-dlya-sbornoy-shiny"
+    },
+    {
+      "category_id": 431,
+      "parent_id": 26,
+      "name": "Каналы сборной шины (шинопровод)",
+      "url": "schity-shkafy-boksy/shinoprovod/kanaly-sbornoy-shiny-shinoprovod"
+    },
+    {
+      "category_id": 126,
+      "parent_id": 26,
+      "name": "Монтажные элементы для шинопровода",
+      "url": "schity-shkafy-boksy/shinoprovod/montazhnye-elementy-dlya-shinoprovoda"
+    },
+    {
+      "category_id": 433,
+      "parent_id": 26,
+      "name": "Шинные блоки",
+      "url": "schity-shkafy-boksy/shinoprovod/shinnye-bloki"
+    },
+    {
+      "category_id": 217,
+      "parent_id": 26,
+      "name": "Аксессуары для шинопровода",
+      "url": "schity-shkafy-boksy/shinoprovod/aksessuary-dlya-shinoprovoda"
+    },
+    {
+      "category_id": 435,
+      "parent_id": 44,
+      "name": "Наборы электромонтажного инструмента",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/nabory-elektromontazhnogo-instrumenta"
+    },
+    {
+      "category_id": 128,
+      "parent_id": 44,
+      "name": "Инструменты для монтажа СИП и кабеля",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/instrumenty-dlya-montazha-sip-i-kabelya"
+    },
+    {
+      "category_id": 437,
+      "parent_id": 44,
+      "name": "Кабелерезы",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/kabelerezy"
+    },
+    {
+      "category_id": 219,
+      "parent_id": 44,
+      "name": "Крепежные инструменты",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/krepezhnye-instrumenty"
+    },
+    {
+      "category_id": 439,
+      "parent_id": 44,
+      "name": "Инструменты для снятия изоляции",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/instrumenty-dlya-snyatiya-izolyacii"
+    },
+    {
+      "category_id": 130,
+      "parent_id": 44,
+      "name": "Обжимные инструменты",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/obzhimnye-instrumenty"
+    },
+    {
+      "category_id": 441,
+      "parent_id": 44,
+      "name": "Отвертки",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/otvertki"
+    },
+    {
+      "category_id": 221,
+      "parent_id": 44,
+      "name": "Пассатижи и плоскогубцы",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/passatizhi-i-ploskogubcy"
+    },
+    {
+      "category_id": 443,
+      "parent_id": 44,
+      "name": "Круглогубцы и тонкогубцы",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/kruglogubcy-i-tonkogubcy"
+    },
+    {
+      "category_id": 132,
+      "parent_id": 44,
+      "name": "Бокорезы и кусачки",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/bokorezy-i-kusachki"
+    },
+    {
+      "category_id": 445,
+      "parent_id": 44,
+      "name": "Клещи и щипцы",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/kleschi-i-schipcy"
+    },
+    {
+      "category_id": 223,
+      "parent_id": 44,
+      "name": "Комплектующие для инструмента",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/komplektuyuschie-dlya-instrumenta"
+    },
+    {
+      "category_id": 447,
+      "parent_id": 44,
+      "name": "Многофункциональные инструменты",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/mnogofunkcional-nye-instrumenty"
+    },
+    {
+      "category_id": 134,
+      "parent_id": 44,
+      "name": "Инструменты для пайки и материалы",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/instrumenty-dlya-payki-i-materialy"
+    },
+    {
+      "category_id": 449,
+      "parent_id": 44,
+      "name": "Инструменты прочие",
+      "url": "instrument-i-elektrozaschita/elektromontazhnyy-instrument/instrumenty-prochie"
+    },
+    {
+      "category_id": 225,
+      "parent_id": 78,
+      "name": "Мультиметры",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/mul-timetry"
+    },
+    {
+      "category_id": 136,
+      "parent_id": 78,
+      "name": "Электроизмерительные клещи",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/elektroizmeritel-nye-kleschi"
+    },
+    {
+      "category_id": 453,
+      "parent_id": 78,
+      "name": "Устройства для измерения температуры",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/ustroystva-dlya-izmereniya-temperatury"
+    },
+    {
+      "category_id": 227,
+      "parent_id": 78,
+      "name": "Анализаторы качества электроэнергии",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/analizatory-kachestva-elektroenergii"
+    },
+    {
+      "category_id": 457,
+      "parent_id": 78,
+      "name": "Тестовые щупы",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/testovye-schupy"
+    },
+    {
+      "category_id": 229,
+      "parent_id": 78,
+      "name": "Тестеры для проверки на обрыв",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/testery-dlya-proverki-na-obryv"
+    },
+    {
+      "category_id": 459,
+      "parent_id": 78,
+      "name": "Измерители сопротивления заземления",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/izmeriteli-soprotivleniya-zazemleniya"
+    },
+    {
+      "category_id": 461,
+      "parent_id": 78,
+      "name": "Приборы для измерения сопротивления изоляции",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/pribory-dlya-izmereniya-soprotivleniya-izolyacii"
+    },
+    {
+      "category_id": 231,
+      "parent_id": 78,
+      "name": "Индикаторы последовательности/чередования фаз",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/indikatory-posledovatel-nosti-cheredovaniya-faz"
+    },
+    {
+      "category_id": 465,
+      "parent_id": 78,
+      "name": "Комплектующие для измерительных приборов",
+      "url": "instrument-i-elektrozaschita/izmeritel-nye-pribory/komplektuyuschie-dlya-izmeritel-nyh-priborov"
+    },
+    {
+      "category_id": 233,
+      "parent_id": 28,
+      "name": "Индикаторы, указатели низкого напряжения",
+      "url": "instrument-i-elektrozaschita/elektrozaschitnye-sredstva/indikatory-ukazateli-nizkogo-napryazheniya"
+    },
+    {
+      "category_id": 241,
+      "parent_id": 80,
+      "name": "Другие СИЗ",
+      "url": "instrument-i-elektrozaschita/sredstva-individual-noy-zaschity/drugie-siz"
+    },
+    {
+      "category_id": 483,
+      "parent_id": 46,
+      "name": "ИБП постоянного тока",
+      "url": "istochniki-pitaniya-i-preobrazovateli/istochniki-bespereboynogo-pitaniya/ibp-postoyannogo-toka"
+    },
+    {
+      "category_id": 152,
+      "parent_id": 46,
+      "name": "ИБП переменного тока",
+      "url": "istochniki-pitaniya-i-preobrazovateli/istochniki-bespereboynogo-pitaniya/ibp-peremennogo-toka"
+    },
+    {
+      "category_id": 485,
+      "parent_id": 46,
+      "name": "Источники питания перемен./постоян. тока",
+      "url": "istochniki-pitaniya-i-preobrazovateli/istochniki-bespereboynogo-pitaniya/istochniki-pitaniya-peremen-postoyan-toka"
+    },
+    {
+      "category_id": 243,
+      "parent_id": 82,
+      "name": "Преобразователи",
+      "url": "istochniki-pitaniya-i-preobrazovateli/preobrazovateli-napryazheniya/preobrazovateli"
+    },
+    {
+      "category_id": 487,
+      "parent_id": 82,
+      "name": "Выпрямители",
+      "url": "istochniki-pitaniya-i-preobrazovateli/preobrazovateli-napryazheniya/vypryamiteli"
+    },
+    {
+      "category_id": 154,
+      "parent_id": 82,
+      "name": "Инверторы",
+      "url": "istochniki-pitaniya-i-preobrazovateli/preobrazovateli-napryazheniya/invertory"
+    },
+    {
+      "category_id": 491,
+      "parent_id": 50,
+      "name": "Встраиваемые светильники для внутреннего освещения",
+      "url": "svetil-niki/svetil-niki-dlya-vnutrennego-osvescheniya/vstraivaemye-svetil-niki-dlya-vnutrennego-osvescheniya"
+    },
+    {
+      "category_id": 156,
+      "parent_id": 50,
+      "name": "Накладные светильники для внутреннего освещения",
+      "url": "svetil-niki/svetil-niki-dlya-vnutrennego-osvescheniya/nakladnye-svetil-niki-dlya-vnutrennego-osvescheniya"
+    },
+    {
+      "category_id": 493,
+      "parent_id": 50,
+      "name": "Подвесные светильники для внутреннего освещения",
+      "url": "svetil-niki/svetil-niki-dlya-vnutrennego-osvescheniya/podvesnye-svetil-niki-dlya-vnutrennego-osvescheniya"
+    },
+    {
+      "category_id": 247,
+      "parent_id": 50,
+      "name": "Светильники направленного освещения",
+      "url": "svetil-niki/svetil-niki-dlya-vnutrennego-osvescheniya/svetil-niki-napravlennogo-osvescheniya"
+    },
+    {
+      "category_id": 495,
+      "parent_id": 50,
+      "name": "Модульные и магистральные светильники",
+      "url": "svetil-niki/svetil-niki-dlya-vnutrennego-osvescheniya/modul-nye-i-magistral-nye-svetil-niki"
+    },
+    {
+      "category_id": 497,
+      "parent_id": 50,
+      "name": "Трековые светильники на шинопроводе",
+      "url": "svetil-niki/svetil-niki-dlya-vnutrennego-osvescheniya/trekovye-svetil-niki-na-shinoprovode"
+    },
+    {
+      "category_id": 499,
+      "parent_id": 90,
+      "name": "Светильники аварийного освещения",
+      "url": "svetil-niki/avariynoe-osveschenie/svetil-niki-avariynogo-osvescheniya"
+    },
+    {
+      "category_id": 160,
+      "parent_id": 90,
+      "name": "Эвакуационные указатели",
+      "url": "svetil-niki/avariynoe-osveschenie/evakuacionnye-ukazateli"
+    },
+    {
+      "category_id": 501,
+      "parent_id": 17,
+      "name": "Подвесные и консольные светильники для уличного освещения",
+      "url": "svetil-niki/svetil-niki-naruzhnogo-osvescheniya/podvesnye-i-konsol-nye-svetil-niki-dlya-ulichnogo-osvescheniya"
+    },
+    {
+      "category_id": 251,
+      "parent_id": 17,
+      "name": "Накладные светильники для уличного освещения",
+      "url": "svetil-niki/svetil-niki-naruzhnogo-osvescheniya/nakladnye-svetil-niki-dlya-ulichnogo-osvescheniya"
+    },
+    {
+      "category_id": 503,
+      "parent_id": 17,
+      "name": "Встраиваемые светильники для уличного освещения",
+      "url": "svetil-niki/svetil-niki-naruzhnogo-osvescheniya/vstraivaemye-svetil-niki-dlya-ulichnogo-osvescheniya"
+    },
+    {
+      "category_id": 162,
+      "parent_id": 17,
+      "name": "Ландшафтные светильники",
+      "url": "svetil-niki/svetil-niki-naruzhnogo-osvescheniya/landshaftnye-svetil-niki"
+    },
+    {
+      "category_id": 505,
+      "parent_id": 52,
+      "name": "Переносные светильники",
+      "url": "svetil-niki/svetil-niki-perenosnye-i-fonari/perenosnye-svetil-niki"
+    },
+    {
+      "category_id": 253,
+      "parent_id": 52,
+      "name": "Фонари",
+      "url": "svetil-niki/svetil-niki-perenosnye-i-fonari/fonari"
+    },
+    {
+      "category_id": 507,
+      "parent_id": 32,
+      "name": "ПРА",
+      "url": "svetil-niki/komplektuyuschie/pra"
+    },
+    {
+      "category_id": 164,
+      "parent_id": 32,
+      "name": "ЭПРА",
+      "url": "svetil-niki/komplektuyuschie/epra"
+    },
+    {
+      "category_id": 509,
+      "parent_id": 32,
+      "name": "ЭмПРА",
+      "url": "svetil-niki/komplektuyuschie/empra"
+    },
+    {
+      "category_id": 255,
+      "parent_id": 32,
+      "name": "Блоки питания и драйверы LED",
+      "url": "svetil-niki/komplektuyuschie/bloki-pitaniya-i-drayvery-led"
+    },
+    {
+      "category_id": 511,
+      "parent_id": 32,
+      "name": "Импульсное зажигающее устройство ИЗУ",
+      "url": "svetil-niki/komplektuyuschie/impul-snoe-zazhigayuschie-ustroystvo-izu"
+    },
+    {
+      "category_id": 513,
+      "parent_id": 32,
+      "name": "Стартеры",
+      "url": "svetil-niki/komplektuyuschie/startery"
+    },
+    {
+      "category_id": 257,
+      "parent_id": 32,
+      "name": "Патроны",
+      "url": "svetil-niki/komplektuyuschie/patrony"
+    },
+    {
+      "category_id": 515,
+      "parent_id": 32,
+      "name": "Блоки защиты ламп",
+      "url": "svetil-niki/komplektuyuschie/bloki-zaschity-lamp"
+    },
+    {
+      "category_id": 168,
+      "parent_id": 32,
+      "name": "Аксессуары для светильников",
+      "url": "svetil-niki/komplektuyuschie/aksessuary-dlya-svetil-nikov"
+    },
+    {
+      "category_id": 517,
+      "parent_id": 32,
+      "name": "Блоки аварийного питания",
+      "url": "svetil-niki/komplektuyuschie/bloki-avariynogo-pitaniya"
+    },
+    {
+      "category_id": 259,
+      "parent_id": 32,
+      "name": "Шинопровод для систем освещения",
+      "url": "svetil-niki/komplektuyuschie/shinoprovod-dlya-sistem-osvescheniya"
+    },
+    {
+      "category_id": 519,
+      "parent_id": 54,
+      "name": "Светодиодные лампы",
+      "url": "lampy/svetodiodnye-lampy-i-moduli/svetodiodnye-lampy"
+    },
+    {
+      "category_id": 170,
+      "parent_id": 54,
+      "name": "Светодиодные ленты, дюралайт",
+      "url": "lampy/svetodiodnye-lampy-i-moduli/svetodiodnye-lenty-dyuralayt"
+    },
+    {
+      "category_id": 521,
+      "parent_id": 54,
+      "name": "Светодиодные модули",
+      "url": "lampy/svetodiodnye-lampy-i-moduli/svetodiodnye-moduli"
+    },
+    {
+      "category_id": 261,
+      "parent_id": 98,
+      "name": "Линейные люминесцентные лампы",
+      "url": "lampy/lyuminescentnye-lampy/lineynye-lyuminescentnye-lampy"
+    },
+    {
+      "category_id": 523,
+      "parent_id": 98,
+      "name": "Кольцевые люминесцентные лампы",
+      "url": "lampy/lyuminescentnye-lampy/kol-cevye-lyuminescentnye-lampy"
+    },
+    {
+      "category_id": 172,
+      "parent_id": 98,
+      "name": "U-образные люминесцентные лампы",
+      "url": "lampy/lyuminescentnye-lampy/u-obraznye-lyuminescentnye-lampy"
+    },
+    {
+      "category_id": 525,
+      "parent_id": 98,
+      "name": "Люминесцентные лампы компактные",
+      "url": "lampy/lyuminescentnye-lampy/lyuminiscentnye-lampy-kompaktnye"
+    },
+    {
+      "category_id": 263,
+      "parent_id": 18,
+      "name": "Металлогалогенные лампы",
+      "url": "lampy/gazorazryadnye-lampy/metallogalogennye-lampy"
+    },
+    {
+      "category_id": 527,
+      "parent_id": 18,
+      "name": "Натриевые лампы",
+      "url": "lampy/gazorazryadnye-lampy/natrievye-lampy"
+    },
+    {
+      "category_id": 265,
+      "parent_id": 100,
+      "name": "Лампы накаливания стандартные",
+      "url": "lampy/lampy-nakalivaniya/lampy-nakalivaniya-standartnye"
+    },
+    {
+      "category_id": 531,
+      "parent_id": 100,
+      "name": "Лампы накаливания декоративные",
+      "url": "lampy/lampy-nakalivaniya/lampy-nakalivaniya-dekorativnye"
+    },
+    {
+      "category_id": 535,
+      "parent_id": 100,
+      "name": "Лампы накаливания с отражателем",
+      "url": "lampy/lampy-nakalivaniya/lampy-nakalivaniya-s-otrazhatelem"
+    },
+    {
+      "category_id": 178,
+      "parent_id": 56,
+      "name": "Линейные галогенные лампы накаливания",
+      "url": "lampy/galogennye-lampy/lineynye-galogennye-lampy-nakalivaniya"
+    },
+    {
+      "category_id": 537,
+      "parent_id": 56,
+      "name": "Галогенные лампы накаливания с отражателем",
+      "url": "lampy/galogennye-lampy/galogennye-lampy-nakalivaniya-s-otrazhatelem"
+    },
+    {
+      "category_id": 269,
+      "parent_id": 56,
+      "name": "Галогенные лампы накаливания во внешней колбе",
+      "url": "lampy/galogennye-lampy/galogennye-lampy-nakalivaniya-vo-vneshney-kolbe"
+    },
+    {
+      "category_id": 539,
+      "parent_id": 56,
+      "name": "Галогенные лампы накаливания капсульные",
+      "url": "lampy/galogennye-lampy/galogennye-lampy-nakalivaniya-kapsul-nye"
+    },
+    {
+      "category_id": 273,
+      "parent_id": 101,
+      "name": "Лампы специальные промышленные",
+      "url": "lampy/lampy-special-nogo-naznacheniya/lampy-special-nye-promyshlennye"
+    },
+    {
+      "category_id": 560,
+      "parent_id": 555,
+      "name": "Железобетонные опоры",
+      "url": "opory/zelezobetonnye-opory-i-fundamenty/zelezobetonnye-opory"
+    },
+    {
+      "category_id": 570,
+      "parent_id": 555,
+      "name": "Композитные опоры",
+      "url": "opory/zelezobetonnye-opory-i-fundamenty/kompozitnye-opory"
+    },
+    {
+      "category_id": 561,
+      "parent_id": 558,
+      "name": "Композитные фундаменты",
+      "url": "opory/kompozitnye-opory-i-fundamenty/kompozitnye-fundamenty"
+    },
+    {
+      "category_id": 572,
+      "parent_id": 558,
+      "name": "Железобетонные фундаменты",
+      "url": "opory/kompozitnye-opory-i-fundamenty/zelezobetonnye-fundamenty"
+    },
+    {
+      "category_id": 577,
+      "parent_id": 576,
+      "name": "Железобетонные приставки",
+      "url": "opory/pristavki/zelezobetonnye-pristavki"
+    }
+  ]
+}
