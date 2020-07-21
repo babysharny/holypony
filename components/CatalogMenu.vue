@@ -1,14 +1,12 @@
 <template lang="pug">
-  div
-    h1 Catalog
-    .columns
-      .column.is-4(
-        v-for='parent in getCategoryGroups'
+  .columns
+    .column.is-4(
+      v-for='parent in getCategoryGroups'
+      )
+      CategoriesList(
+        :key='parent && parent.category_id'
+        :parent='parent'
         )
-        CategoriesList(
-          :key='parent && parent.category_id'
-          :parent='parent'
-          )
 </template>
 
 <script>

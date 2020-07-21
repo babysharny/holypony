@@ -23,7 +23,8 @@ export default {
   right: 0;
   z-index: 1;
   background-color: white;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
   box-shadow: 0 40px 80px rgba(0, 0, 0, 0.15);
 }
 </style>
