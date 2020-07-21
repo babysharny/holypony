@@ -12,8 +12,8 @@
 <script>
 export default {
   methods: {
-    switchCatalogMenu() {
-      this.$store.dispatch("catalog/switchMenu")
+    switchCatalogMenu () {
+      this.$store.dispatch('catalog/switchMenu')
     }
   }
 }

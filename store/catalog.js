@@ -12,7 +12,7 @@ export const state = () => {
 
 export const getters = {
 
-  getChildren: state => parent => {
+  getChildren: state => (parent) => {
     const parentId = parent ? parent.category_id : null
     const list = state.list.filter(c => c.parent_id === parentId)
     return list
@@ -22,61 +22,61 @@ export const getters = {
     return getters.getParentsOfCategory(state.activeCategory)
   },
 
-  getParentsOfCategory: state => category => {
+  getParentsOfCategory: state => (category) => {
     let activeCategory = category
     const categories = state.list
 
-    const groups = [];
+    const groups = []
     while (activeCategory) {
-      groups.unshift(activeCategory);
-      activeCategory = categories.find(c => c.category_id === activeCategory.parent_id);
+      groups.unshift(activeCategory)
+      activeCategory = categories.find(c => c.category_id === activeCategory.parent_id)
     }
     // TODO Remove this
-    groups.unshift(null);
+    groups.unshift(null)
     return groups
   },
 
-  getBySlug: state => slug => {
+  getBySlug: state => (slug) => {
     return state.list.find(c => c.url === slug)
   }
 }
 
 export const actions = {
 
-  async fetchCategories({ commit, state }) {
+  async fetchCategories ({ commit, state }) {
     if (state.list.length > 0) {
-      return;
+      return
     }
     const { items } = await this.$axios.$get(URL)
     commit('setCategories', items)
   },
 
-  selectCategory({ commit }, category) {
+  selectCategory ({ commit }, category) {
     commit('setActiveCategory', category)
   },
 
-  switchMenu({ commit, state: { showMenu } }) {
+  switchMenu ({ commit, state: { showMenu } }) {
     commit('setMenuShow', !showMenu)
   },
-  closeMenu({ commit }) {
+  closeMenu ({ commit }) {
     commit('setMenuShow', false)
   },
-  openMenu({ commit }) {
+  openMenu ({ commit }) {
     commit('setMenuShow', true)
   }
 }
 
 export const mutations = {
 
-  setCategories(state, payload) {
+  setCategories (state, payload) {
     state.list = payload
   },
 
-  setActiveCategory(state, category) {
+  setActiveCategory (state, category) {
     state.activeCategory = category
   },
 
-  setMenuShow(state, status) {
+  setMenuShow (state, status) {
     state.showMenu = status
   }
 }

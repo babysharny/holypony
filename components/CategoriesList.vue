@@ -18,22 +18,22 @@ export default {
   props: {
     parent: Object
   },
-  data() {
+  data () {
     return {
       activeId: null
     }
   },
   computed: {
-    categories() {
-      return this.$store.getters["catalog/getChildren"](this.parent)
-    },
+    categories () {
+      return this.$store.getters['catalog/getChildren'](this.parent)
+    }
   },
   methods: {
-    select(category) {
-      this.activeId =  category.category_id
+    select (category) {
+      this.activeId = category.category_id
       this.$store.dispatch('catalog/selectCategory', category)
     },
-    closeMenu() {
+    closeMenu () {
       this.$store.dispatch('catalog/switchMenu')
     }
   }

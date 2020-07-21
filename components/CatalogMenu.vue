@@ -12,15 +12,15 @@
 </template>
 
 <script>
-import CategoriesList from "~/components/CategoriesList";
+import CategoriesList from '~/components/CategoriesList'
 
 export default {
   components: {
     CategoriesList
   },
   computed: {
-    getCategoryGroups() {
-      return this.$store.getters["catalog/getGroups"]
+    getCategoryGroups () {
+      return this.$store.getters['catalog/getGroups']
     }
   }
 }

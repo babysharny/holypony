@@ -5,11 +5,11 @@
 </template>
 
 <script>
-import CategoryMenu from "@/components/CatalogMenu";
+import CategoryMenu from '@/components/CatalogMenu'
 export default {
-  components: {CategoryMenu},
+  components: { CategoryMenu },
   computed: {
-    showMenu() {
+    showMenu () {
       return this.$store.state.catalog.showMenu
     }
   }

@@ -16,21 +16,21 @@ div
 </template>
 
 <script>
-import Breadcrumbs from "~/components/Breadcrumbs";
+import Breadcrumbs from '~/components/Breadcrumbs'
 export default {
-  components: {Breadcrumbs},
-  asyncData({ params, store }) {
+  components: { Breadcrumbs },
+  asyncData ({ params, store }) {
     // console.log(params)
-    const currentCategory = store.getters["catalog/getBySlug"](params.slug)
-    const parents = store.getters["catalog/getParentsOfCategory"](currentCategory)
+    const currentCategory = store.getters['catalog/getBySlug'](params.slug)
+    const parents = store.getters['catalog/getParentsOfCategory'](currentCategory)
     return { parents }
   },
   computed: {
-    category() {
-      return this.$store.getters["catalog/getBySlug"](this.$route.params.slug)
+    category () {
+      return this.$store.getters['catalog/getBySlug'](this.$route.params.slug)
     },
-    categoryGroups() {
-      return this.$store.getters["catalog/getGroups"]
+    categoryGroups () {
+      return this.$store.getters['catalog/getGroups']
     }
   }
 }

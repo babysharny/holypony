@@ -15,7 +15,7 @@ div
 </template>
 <script>
 export default {
-  async asyncData({ $content }) {
+  async asyncData ({ $content }) {
     const doc = await $content('tz').fetch()
     return { doc }
   }
